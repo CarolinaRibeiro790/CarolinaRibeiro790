@@ -4,9 +4,6 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=CarolinaRibeiro790&color=f8efd4&style=for-the-badge&logo=GitHub" alt="GitHub Overview">
 
-<p>🎯 Atualmente desenvolvendo projetos com React Native, JavaScript, Laravel e Node.js.<br/>
-💼 Colaborando em projetos pessoais e de código aberto.<br/></p>
-
 ---
 
 <div style="display: flex; align-items: center; gap: 10px;">
