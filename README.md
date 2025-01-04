@@ -14,6 +14,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=notion" width="40" height="40" alt="Notion" />
+
 </div>
+
 
 
