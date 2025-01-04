@@ -6,4 +6,4 @@
 
 <p>🎯 Atualmente desenvolvendo projetos com React Native, JavaScript, Laravel e Node.js.<br/>
 💼 Colaborando em projetos pessoais e de código aberto.<br/>
-🚀 Entusiasta de tecnologia e aprendizado contínuo.</p>
+
