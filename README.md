@@ -5,5 +5,18 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=CarolinaRibeiro790&color=f8efd4&style=for-the-badge&logo=GitHub" alt="GitHub Overview">
 
 <p>🎯 Atualmente desenvolvendo projetos com React Native, JavaScript, Laravel e Node.js.<br/>
-💼 Colaborando em projetos pessoais e de código aberto.<br/>
+💼 Colaborando em projetos pessoais e de código aberto.<br/></p>
+
+---
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+</div>
+
 
